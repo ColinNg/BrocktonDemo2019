@@ -20,7 +20,7 @@ Most of the code is inside the `.ino` files. For the Tone/Melody program, also c
 
 The code is inside the `.ino` files. For the Tone/Melody program, also copy the contents of the `pitches.h` file to a new tab (name it `pitches.h` when it asks). 
 
-![Create a New Tab for dot h files using the downward pointing triangle](images/Create a New Tab for dot h files using the downward pointing triangle.png)
+![Create a New Tab for dot h files using the downward pointing triangle](images/Create%20a%20New%20Tab%20for%20dot%20h%20files%20using%20the%20downward%20pointing%20triangle.png)
 
 [Original Tutorial at the official Arduino site](https://www.arduino.cc/en/Tutorial/ToneMelody), and our change was to move from pin 8 (which the DigiSpark clone does not have) to 0. You can use any pin marked `PMW` which I believe are 0, 1, 2, and 4. 
 
