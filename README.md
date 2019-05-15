@@ -22,7 +22,7 @@ The code is inside the `.ino` files. For the Tone/Melody program, also copy the 
 
 ![Create a New Tab for dot h files using the downward pointing triangle](images/Create%20a%20New%20Tab%20for%20dot%20h%20files%20using%20the%20downward%20pointing%20triangle.png)
 
-[Original Tutorial at the official Arduino site](https://www.arduino.cc/en/Tutorial/ToneMelody), and our change was to move from pin 8 (which the DigiSpark clone does not have) to 0. You can use any pin marked `PMW` which I believe are 0, 1, 2, and 4. 
+[Original Tutorial at the official Arduino site](https://www.arduino.cc/en/Tutorial/ToneMelody), and our change was to move from pin 8 (which the DigiSpark clone does not have) to 0. You can use any pin marked `PWM` which I believe are 0, 1, 2, and 4. 
 
 
 ## Getting the Temperature on Digispark
