@@ -17,24 +17,27 @@ void setup()
 }
 
 void loop()
-{
-  setColor(255, 255, 255);  // white
+{ 
+  setColor(64, 64, 32);  // white
   delay(1000);
-  setColor(255, 0, 0);  // red
+  setColor(192, 0, 0);  // red
   delay(1000);
-  setColor(224, 32, 0);  // orange
+  setColor(192, 16, 0);  // orange
   delay(1000);
-  setColor(192, 96, 0);  // yellow
+  setColor(192, 48, 0);  // yellow
   delay(1000);  
-  setColor(0, 255, 0);  // green
+  setColor(0, 48, 0);  // green
   delay(1000);
-  setColor(0, 0, 255);  // blue
+  setColor(0, 16, 32);  // blue
   delay(1000);
-  setColor(32, 0, 128);  // indigo
+  setColor(6, 0, 32);  // indigo
   delay(1000);
-  setColor(96, 0, 128 );  // violet
+  setColor(16, 0, 32 );  // violet
   delay(1000);
-  setColor(0, 255, 255);  // aqua
+
+  setColor(0, 48, 16);  // aqua
+  delay(1000);
+  setColor(64, 0, 32);  // fuschia
   delay(1000);
 }
 
